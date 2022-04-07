@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jorge",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "desipolan@gmail.com",
+      "telefono": "986841602",
+      "notas": "Nuevo Cliente Modificado",
+      "id": 1
+    },
+    {
+      "nombre": "Kevin",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "kevinapo2010@gmail.com",
+      "telefono": "986841602",
+      "notas": "Otro Cliente",
+      "id": 2
+    },
+    {
+      "nombre": "Desiree",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "desipolan@gmail.com",
+      "telefono": "986841602",
+      "notas": "Otro mas",
+      "id": 3
+    },
+    {
+      "nombre": "Maria",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "desipolan@gmail.com",
+      "telefono": "986841602",
+      "notas": "Cliente Maria",
+      "id": 5
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "japolinar_1@hotmail.com",
+      "telefono": "986841602",
+      "notas": "Hola ",
+      "id": 6
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "japolinar_1@hotmail.com",
+      "telefono": "986841602",
+      "notas": "Hola Modificado",
+      "id": 7
+    },
+    {
+      "nombre": "Kevin",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "kevinapo2010@gmail.com",
+      "telefono": "986841602",
+      "notas": "Otro Cliente Modificado",
+      "id": 8
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "japolinar_1@hotmail.com",
+      "telefono": "986841602",
+      "notas": "Hola Modificado",
+      "id": 9
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "japolinar_1@hotmail.com",
+      "telefono": "986841602",
+      "notas": "Hola Modificado",
+      "id": 10
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "96924170-6 Cgs Chile",
+      "email": "desipolan@gmail.com",
+      "telefono": "986841602",
+      "notas": "Nuevo Cliente Modificado",
+      "id": 11
+    }
+  ]
+}
