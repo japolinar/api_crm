@@ -22,7 +22,7 @@ const Formulario = ({cliente, cargando}) => {
     try {
       if(cliente.id){
         //Editando Registro
-        const url = `http://localhost:4000/clientes/${cliente.id}`
+        const url = `${import.meta.env.VITE_API_URL}/${cliente.id}`
         const respuesta = await fetch(url,{
           method: 'PUT',
           body: JSON.stringify(valores),
@@ -30,13 +30,13 @@ const Formulario = ({cliente, cargando}) => {
             'Content-Type': 'application/json'
           }
         })
-        console.log(respuesta)
+        //console.log(respuesta)
         const resultado = await respuesta.json()
-        console.log(resultado)
+        //console.log(resultado)
 
       }else{
         //Nuevo Gregistro
-        const url = 'http://localhost:4000/clientes'
+        const url = import.meta.env.VITE_API_URL
         const respuesta = await fetch(url,{
           method: 'POST',
           body: JSON.stringify(valores),
@@ -44,9 +44,9 @@ const Formulario = ({cliente, cargando}) => {
             'Content-Type': 'application/json'
           }
         })
-        console.log(respuesta)
+        //console.log(respuesta)
         const resultado = await respuesta.json()
-        console.log(resultado)
+        //console.log(resultado)
 
       }      
 
