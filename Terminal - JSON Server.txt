@@ -1,0 +1,8 @@
+*****Para instalar JSON Server*****
+npm install -g json-server  <<-- de forma global
+
+npm i json-server
+
+colocar esto en la terminal para levantar el servidor:
+
+json-server --watch db.json --port 4000
