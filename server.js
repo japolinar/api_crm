@@ -4,7 +4,7 @@ const router = jsonServer.router('./db.json');
 const middlewares = jsonServer.defaults({
   static: './build'
 });
-const PORT = process.env.PORT || 4000;
+const PORT = import.meta.env.VITE_API_URL;
 server.use(middlewares);
 server.use(jsonServer.rewriter({
   '/api/*': '/$1',
