@@ -4,7 +4,7 @@ const router = jsonServer.router('./db.json');
 const middlewares = jsonServer.defaults({
   static: './build'
 });
-const port = meta.env.VITE_API_URL || 8000;
+const port = meta.env.VITE_API_URL || 4000;
 server.use(middlewares);
 server.use(jsonServer.rewriter({
   '/api/*': '/$1',
