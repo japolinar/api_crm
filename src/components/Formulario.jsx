@@ -74,7 +74,7 @@ const Formulario = ({cliente, cargando}) => {
             //console.log(values)
             await handleSubmit(values)
             resetForm()  //resetiar los input del formulario
-            navigate('/clientes')  //es para direccionar a la pagina clienets
+            navigate('/')  //es para direccionar a la pagina clienets
           }}
           validationSchema={nuevoClienteSchema}
         >
