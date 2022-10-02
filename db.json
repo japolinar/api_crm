@@ -1,84 +1,28 @@
 {
   "clientes": [
     {
-      "nombre": "Jorge",
+      "nombre": "Jesus",
       "empresa": "96924170-6 Cgs Chile",
-      "email": "desipolan@gmail.com",
-      "telefono": "986841602",
+      "email": "jesus@gmail.com",
+      "telefono": "98765432",
       "notas": "Nuevo Cliente ",
       "id": 1
     },
     {
-      "nombre": "Kevin",
+      "nombre": "Jenifer",
       "empresa": "96924170-6 Cgs Chile",
-      "email": "kevinapo2010@gmail.com",
-      "telefono": "986841602",
+      "email": "jenifer@gmail.com",
+      "telefono": "955842261",
       "notas": "Otro Cliente",
       "id": 2
     },
     {
-      "nombre": "Desiree",
+      "nombre": "Luis",
       "empresa": "96924170-6 Cgs Chile",
-      "email": "desipolan@gmail.com",
-      "telefono": "986841602",
+      "email": "luis@gmail.com",
+      "telefono": "977488555",
       "notas": "Otro mas",
       "id": 3
-    },
-    {
-      "nombre": "Jorge",
-      "empresa": "96924170-6 Cgs Chile",
-      "email": "japolinar_1@hotmail.com",
-      "telefono": "986841602",
-      "notas": "Hola ",
-      "id": 6
-    },
-    {
-      "nombre": "Jorge",
-      "empresa": "96924170-6 Cgs Chile",
-      "email": "japolinar_1@hotmail.com",
-      "telefono": "986841602",
-      "notas": "Hola Modificado",
-      "id": 7
-    },
-    {
-      "nombre": "Kevin",
-      "empresa": "96924170-6 Cgs Chile",
-      "email": "kevinapo2010@gmail.com",
-      "telefono": "986841602",
-      "notas": "Otro Cliente Modificado",
-      "id": 8
-    },
-    {
-      "nombre": "Jorge",
-      "empresa": "96924170-6 Cgs Chile",
-      "email": "japolinar_1@hotmail.com",
-      "telefono": "986841602",
-      "notas": "Hola Modificado",
-      "id": 9
-    },
-    {
-      "nombre": "Jorge",
-      "empresa": "96924170-6 Cgs Chile",
-      "email": "japolinar_1@hotmail.com",
-      "telefono": "986841602",
-      "notas": "Hola Modificado",
-      "id": 10
-    },
-    {
-      "nombre": "Jorge",
-      "empresa": "96924170-6 Cgs Chile",
-      "email": "desipolan@gmail.com",
-      "telefono": "986841602",
-      "notas": "Nuevo Cliente Modificado",
-      "id": 11
-    },
-    {
-      "nombre": "Jorge",
-      "empresa": "96924170-6 Cgs Chile",
-      "email": "kevinapo2010@gmail.com",
-      "telefono": "986841602",
-      "notas": "Modificado",
-      "id": 12
-    }
+    }    
   ]
 }
